@@ -1,0 +1,26 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "Aplicación para validad el estado de los enlaces en un archivo .md ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^23.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majosalazar/scl-2018-01-FE-markdown.git"
+  },
+  "author": "Maria José Salazar Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majosalazar/scl-2018-01-FE-markdown/issues"
+  },
+  "homepage": "https://github.com/majosalazar/scl-2018-01-FE-markdown#readme"
+}
